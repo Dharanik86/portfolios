@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+    justify-content: center; /* Adjust alignment horizontally */
+    align-items: center;    /* Adjust alignment vertically */
+    flex-direction: row;    /* Row direction (default) */
+    border: 2px solid #333;
+    padding: 20px;
+    height: 300px;
+  }
